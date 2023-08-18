@@ -19,7 +19,7 @@ def main():
     This is the main function that runs the Streamlit app.
     """
     # Set the title of the app
-    st.title('California House Price Prediction App')
+    st.title('California House Price Prediction App 🚀')
     
     # Set the header for the sidebar
     st.sidebar.header('Input Data for House Price Prediction')
