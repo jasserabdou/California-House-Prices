@@ -4,7 +4,7 @@ This Streamlit app predicts house prices in California based on user input featu
 
 ## Deployed on Streamlit Community Cloud
 
-This app has been deployed on the Streamlit Community Cloud and can be accessed using the following link: [California House Price Prediction App](https://share.streamlit.io/your-username/your-repo-name/main/app.py)
+This app has been deployed on the Streamlit Community Cloud and can be accessed using the following link: [California House Price Prediction App](https://california-house-prices-saj96avnxe8iyz9pt5ebxx.streamlit.app/)
 
 ## Requirements
 
