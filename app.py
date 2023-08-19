@@ -34,7 +34,7 @@ def main():
     input_features = {}
 
     input_features["longitude"] = st.sidebar.number_input("Longitude", -180.0, 0.0, 0.0)
-    input_features["latitude"] = st.sidebar.number_input("Latitude", -90.0, 90.0, 0.0)
+    input_features["latitude"] = st.sidebar.number_input("Latitude", 0.0, 90.0, 0.0)
     input_features["housing_median_age"] = st.sidebar.slider(
         "Housing Median Age", 0, 100, 30
     )
@@ -59,7 +59,7 @@ def main():
     st.write(input_df)
 
     prediction = predict_price(input_df)
-    st.write(f"## Estimated House Price: {prediction}")
+    st.write(f"## Estimated House Price: {int(prediction)} $")
 
 
 if __name__ == "__main__":
