@@ -48,11 +48,8 @@ smmap==5.0.0
 statsmodels==0.14.0
 streamlit==1.25.0
 tenacity==8.2.3
-<<<<<<< HEAD
 tensorflow==2.13.0
 keras==2.13.1
-=======
->>>>>>> da9a65dc77dd5b9a1cec709c2a106ca43d0118d8
 threadpoolctl==3.2.0
 toml==0.10.2
 toolz==0.12.0
