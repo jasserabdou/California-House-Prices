@@ -1,6 +1,6 @@
 # California House Price Prediction App
 
-This Streamlit app predicts house prices in California based on user input features. The app utilizes a pre-trained Linear Regression model to make predictions.
+This Streamlit app predicts house prices in California based on user input features. The app utilizes a Linear Regression model to make predictions.
 
 ## Deployed on Streamlit Community Cloud
 
